@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyBoardHandling_Xamarin_iOS", "KeyBoardHandling_Xamarin_iOS\KeyBoardHandling_Xamarin_iOS.csproj", "{A744BE7C-4D94-4905-947D-1E5534D4A285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Debug|iPhone.Build.0 = Debug|iPhone
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Release|iPhone.ActiveCfg = Release|iPhone
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Release|iPhone.Build.0 = Release|iPhone
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{A744BE7C-4D94-4905-947D-1E5534D4A285}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
